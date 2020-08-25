@@ -1,4 +1,4 @@
-# socratically_speaking
+# socratically speaking
 
 looking at the socratic dialogues analytically
 

@@ -9,4 +9,6 @@ speaker word choice
 
 speaker phrasing
 
+questions by speaker
+
 zipf's law
